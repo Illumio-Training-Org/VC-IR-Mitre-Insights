@@ -1,0 +1,44 @@
+slug: 321-mitre-attack-sp
+id: db0mgubtbkxv
+revision: 1
+title: 321-MITRE ATT&CK - Insights
+teaser: A practical self-paced course covering the MITRE ATT&CK framework from foundations
+  to incident response, with Illumio Insights mapped throughout.
+description: |-
+  This self-paced course teaches the MITRE ATT&CK framework from the ground up and connects every concept directly to Illumio Insights. Five core assignments take you from framework foundations through threat actor research to a full incident response workflow.
+
+  A sixth optional assignment covers the ATT&CK Navigator, Sub-Techniques, Mitigations, and defensive coverage mapping in depth.
+
+  Estimated completion time: 1.5 hours (core, Modules 1–5) or 2.5 hours (full course including Module 6)
+  Audience: Security professionals, SOC analysts, and Illumio practitioners
+icon: https://play.instruqt.com/assets/tracks/db0mgubtbkxv/5eceb2f9f4a44f1f8d6c6e265b9c86c1/assets/logo.png
+tags:
+- apt
+- cybersecurity
+- exfiltration
+- illumio
+- incident-response
+- insights
+- lateral-movement
+- mitre-attack
+- self-paced
+- threat-intelligence
+owner: illumio-training
+developers:
+- nathan.mitchell@illumio.com
+instructors: []
+skipping_enabled: true
+idle_timeout: 3600
+timelimit: 1200
+sandbox_preset: base-image
+lab_config:
+  extend_ttl: 300
+  sidebar_enabled: true
+  hideStopButton: false
+  feedback_recap_enabled: true
+  feedback_tab_enabled: false
+  override_challenge_layout: false
+  default_layout: AssignmentLeft
+  default_layout_sidebar_size: 100
+  loadingMessages: true
+enhanced_loading: null
